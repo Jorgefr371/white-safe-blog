@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prevención de Infecciones Vaginales | Guía de Bienestar Femenino</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #f8f9fa;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      color: #a8447e;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      color: #555;
+      font-size: 1.1rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+    h2 {
+      color: #a8447e;
+      margin-top: 2rem;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    .tip-box {
+      background: #fdf1f7;
+      border-left: 4px solid #a8447e;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #f8f9fa;
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Guía de Prevención de Infecciones Vaginales</h1>
+    <p>Información clara, educativa y respaldada por fuentes médicas para el bienestar íntimo femenino.</p>
+  </header>
+
+  <section>
+    <h2>Comprender tu salud íntima</h2>
+    <p>
+      La salud vaginal depende del equilibrio natural de bacterias beneficiosas que conforman la flora o microbiota vaginal. Cuando este equilibrio se altera, pueden aparecer molestias como picazón, irritación o cambios en el flujo. La buena noticia es que con hábitos saludables puedes mantener ese equilibrio y prevenir infecciones.
+    </p>
+
+    <h2>Factores que pueden alterar el equilibrio vaginal</h2>
+    <ul>
+      <li>Uso frecuente de antibióticos sin control médico.</li>
+      <li>Ropa interior muy ajustada o de materiales sintéticos.</li>
+      <li>Higiene íntima excesiva o uso de jabones perfumados.</li>
+      <li>Estrés, cambios hormonales o dietas desequilibradas.</li>
+      <li>Relaciones sexuales sin la higiene adecuada antes y después.</li>
+    </ul>
+
+    <div class="tip-box">
+      <strong>Consejo:</strong> Usa ropa interior de algodón y evita mantener la zona húmeda por periodos prolongados. Permite que tu piel respire.
+    </div>
+
+    <h2>Hábitos para prevenir infecciones vaginales</h2>
+    <ul>
+      <li>Realiza una higiene suave, solo con agua o productos neutros.</li>
+      <li>Mantén una dieta equilibrada rica en frutas, vegetales y fibra.</li>
+      <li>Evita el uso prolongado de protectores diarios.</li>
+      <li>Bebe suficiente agua durante el día para eliminar toxinas.</li>
+      <li>Consulta con un profesional de salud si notas cambios persistentes en tu flujo o malestar.</li>
+    </ul>
+
+    <div class="tip-box">
+      <strong>Dato útil:</strong> Dormir bien y reducir el estrés ayuda a fortalecer tu sistema inmunológico, lo que favorece el equilibrio vaginal.
+    </div>
+
+    <h2>El papel de la microbiota intestinal</h2>
+    <p>
+      El intestino y la vagina están más conectados de lo que parece. Mantener una microbiota intestinal equilibrada puede apoyar la salud vaginal, ya que ambos ecosistemas comparten bacterias beneficiosas. Una alimentación variada y saludable es clave para fortalecer esta conexión.
+    </p>
+
+    <h2>Cuándo consultar a un profesional</h2>
+    <p>
+      Si presentas síntomas persistentes como flujo anormal, mal olor, picazón intensa o dolor, consulta siempre con tu ginecólogo o profesional de salud. El diagnóstico temprano y la atención adecuada evitan complicaciones y te ayudan a mantener tu bienestar.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 Guía de Bienestar Femenino. Información con fines educativos. No sustituye el consejo médico profesional.</p>
+  </footer>
+</body>
+</html>
